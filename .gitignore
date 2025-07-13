@@ -1,1 +1,9 @@
 Archived/
+# Ignore specific notebooks
+Feature_Engineering_Refined.ipynb
+Fetures_Selection_Refined.ipynb
+Hyperparameter_Tunning.ipynb
+Model Training_Refined.ipynb
+Preprocessing.ipynb
+test_processing.ipynb
+
